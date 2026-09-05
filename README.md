@@ -1,10 +1,12 @@
-# Reproducibility package
+## Underground Hydrogen Storage Wellbore Performance Model
 
-This supplementary package accompanies the manuscript:
+This repository provides an analytical wellbore performance model for assessing hydrogen injection and withdrawal in depleted gas reservoirs for underground hydrogen storage (UHS). The model evaluates wellbore-level injection and withdrawal performance using coupled inflow and outflow relationships, hydrogen pseudo-pressure calculations, non-Darcy flow effects, operating pressure constraints, and reservoir-based hydrogen inventory accounting.
+
+The model was developed and applied in the following article published in Applied Energy:
 
 **A Performance-based Framework for Assessing Underground Hydrogen Storage Under Reservoir and Infrastructure Constraints: Application to Offshore Wind Curtailment Mitigation**
 
-The files are provided to support transparency and reuse of the regional underground hydrogen storage (UHS) screening workflow. Field names have been anonymised using reservoir identifiers.
+The files are provided to support transparency and reuse of the regional UHS screening workflow. Field names have been anonymised using reservoir identifiers.
 
 ## Package contents
 
