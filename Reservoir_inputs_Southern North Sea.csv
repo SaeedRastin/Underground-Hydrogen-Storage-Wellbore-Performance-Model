@@ -1,0 +1,51 @@
+Reservoir_ID,Operational_status_as_of_July_2025,Depth_m_tvdss,Initial_pressure_bar,Temperature_C,Net_thickness_m,NTG_fraction,Porosity_fraction,Permeability_mD,OGIP_sm3,Recoverable_gas_sm3,Trap_type,Biochemical_risk_class,Gas_storage_wells,Gas_production_wells,Abandoned_phase_1_wells,Abandoned_phase_2_wells,Abandoned_phase_3_wells,Permanently_plugged_wells
+R01,Out of operation,"2,682.00",282,87,18.63,0.69,0.18,500,"29,987,000,000.00","23,909,348,441.93",Faulted anticline,Medium risk,0,0,0,1,33,0
+R02,Operational,"3,123.00",328,104,66.3,0.78,0.13,1,"9,320,100,000.00","5,240,000,000.00",Dip and fault closure,Low risk,0,5,3,0,0,0
+R03,Out of operation,"2,560.00",275,90,66,0.97,0.17,30,"1,133,144,475.92","906,515,580.74",Tilted fault block,Low risk,0,0,0,1,0,0
+R04,Out of operation,"2,575.00",277,90,73.72,0.97,0.17,30,"3,682,719,546.74","2,832,861,189.80",Tilted fault block,Low risk,0,0,0,3,3,0
+R05,Out of operation,"1,680.00",182,150,97,0.99,0.19,250,"8,385,269,121.81","5,198,866,855.52",Faulted and dip closed ,No risk,0,0,0,0,7,0
+R06,Out of operation,"3,805.00",447,115,64.01,0.37,0.1,73,"5,835,694,050.99","4,022,662,889.52",Tilted fault block,Low risk,0,0,0,4,7,0
+R07,Out of operation,"1,325.00",143,54,75,0.98,0.21,100,"4,419,263,456.09","3,286,118,980.17",4-way dip closure,High risk,0,0,0,0,4,0
+R08,Out of operation,"3,545.00",426,112,24,0.75,0.11,5,"6,515,580,736.54","5,269,121,813.03",Inverted fault block,Low risk,0,0,0,0,6,0
+R09,Operational,"2,735.00",345,95,45.45,0.3,0.11,3,"15,864,022,662.89","12,691,218,130.31",Fault and dip closure,Low risk,0,7,0,4,1,0
+R10,Out of operation,"3,520.00",421,99,76.5,0.17,0.08,7.72,"8,810,198,300.28","8,630,000,000.00",Dip and fault closed anticline,Low risk,0,0,0,0,5,0
+R11,Operational,"3,185.00",391,110,44,0.25,0.1,1.5,"19,461,756,373.94","15,569,405,099.15",Domal horst structure,Low risk,0,4,6,3,0,1
+R12,Operational,"2,438.00",281,85,67,1,0.2,400,"6,685,552,407.93","5,977,337,110.48",Faulted pop up,Medium risk,0,2,3,0,0,0
+R13,Operational,"3,333.00",396,107,87.5,0.89,0.14,"1,875.00","28,130,300,000.00","21,090,000,000.00",Structrtal,Low risk,0,12,1,4,0,0
+R14,Out of operation,"1,723.00",162,148,43,0.99,0.2,170,"594,900,849.86","452,124,645.89",Faulted and dip closed ,No risk,0,0,0,1,0,0
+R15,Operational,"1,684.00",190,145,172,0.98,0.14,75,"12,464,589,235.13","11,467,422,096.32",Faulted and dip closed ,No risk,0,2,0,1,2,0
+R16,Operational,"1,837.00",195,151,78,0.96,0.15,2,"878,186,968.84","851,841,359.77",Faulted and dip closed ,No risk,0,1,0,0,0,0
+R17,Operational,"1,767.00",193,143,105,0.99,0.13,50,"3,144,475,920.68","2,578,470,254.96",Faulted and dip closed ,No risk,0,1,0,0,0,0
+R18,Out of operation,"2,575.00",275,80,121.5,0.5,0.1,0.1,"14,164,305,949.01","11,331,444,759.21",Three-way dip fault closure,Medium risk,0,0,0,1,5,0
+R19,Out of operation,"2,621.00",283,80,56.5,1,0.18,100,"8,186,968,838.53","5,552,407,932.01",Tilted horst block,Medium risk,0,0,0,1,2,0
+R20,Operational,"3,276.00",386,110,34.56,0.72,0.1,50,"11,416,430,594.90","9,133,144,475.92",Faulted 4-way dip closure,Low risk,0,4,2,4,1,0
+R21,Out of operation,"2,484.00",275,92,83.16,0.99,0.14,20,"2,832,861,189.80","2,549,575,070.82",Fault bounded horst structure and dip closure,Low risk,0,0,0,0,5,0
+R22,Out of operation,813,94,108,106,0.96,0.21,500,"38,413,597,733.71","34,180,000,000.00",4-way dip closed anticline with faulted margins,No risk,0,0,0,2,5,0
+R23,Out of operation,"1,198.00",136,126,46.64,0.88,0.23,"1,000.00","59,490,084,985.84","58,890,000,000.00",4-way dip closed anticline with faulted margins,No risk,0,0,0,0,24,0
+R24,Out of operation,"1,474.00",134,133,15,0.94,0.24,300,"198,300,283.29","41,640,000.00",4-way dip closed anticline with faulted margins,No risk,0,0,0,0,1,0
+R25,Out of operation,"1,288.00",144,135,12.8,0.4,0.12,1,"450,424,929.18","378,357,000.00",4-way dip closed anticline with faulted margins,No risk,0,0,0,0,1,0
+R26,Operational,"1,376.00",147,130,40.42,0.43,0.09,1,"11,869,688,385.27","5,340,000,000.00",4-way dip closed anticline with faulted margins,No risk,0,1,0,0,6,0
+R27,Operational,"2,286.00",284,90,58.68,0.97,0.15,30,"158,640,226,628.90","133,144,475,920.68",Structural horst block,Low risk,0,19,7,7,41,1
+R28,Out of operation,"3,123.00",326,108,85,1,0.11,10,"10,793,201,133.14","7,285,410,000.00",Tilted fault block,Low risk,0,6,4,0,0,0
+R29,Out of operation,"2,654.00",286,93,29.04,0.88,0.18,60,"2,379,603,399.43","832,861,189.80",Faulted anticline,Low risk,0,0,0,0,2,0
+R30,Out of operation,"3,505.00",447,112,128.96,0.32,0.11,23,"16,458,923,512.75","7,406,515,580.74",Faulted monocline with possible stratigraphic element,Low risk,0,0,0,0,17,0
+R31,Operational,"3,244.00",391,110,38.76,0.34,0.06,10,"2,407,932,011.33","1,926,345,609.07",Horst block ,Low risk,0,1,0,0,0,0
+R32,Operational,"3,294.00",376,102,118.3,0.65,0.14,2,"8,300,283,286.12","5,727,195,467.42",4-way dip closure,Low risk,0,5,2,0,1,0
+R33,Operational,"1,783.00",208,51,243,1,0.12,7.75,"397,000,000,000.00","360,000,000,000.00",Faulted percline,High risk,0,184,45,9,13,9
+R34,Out of operation,"1,026.00",115,116,90,0.95,0.21,350,"2,832,861,189.80","2,490,000,000.00",Faulted and dip closed ,No risk,0,0,0,3,1,0
+R35,Out of operation,"1,718.00",189,146,94,0.98,0.19,450,"4,419,263,456.09","3,447,025,495.75",Faulted and dip closed ,No risk,0,0,0,3,1,0
+R36,Operational,"2,749.00",293,93,75,1,0.15,24,"2,804,532,577.90","2,128,000,000.00",Fault bound horst structure with fault closure to the N and S and dip closure to NW,Low risk,0,1,0,0,0,0
+R37,Out of operation,"3,429.00",423,112,33.84,0.94,0.11,73,"13,541,076,487.25","9,858,356,940.51",Faulted Horst block,Low risk,0,0,0,0,14,0
+R38,Out of operation,"2,468.00",275,95,47.5,0.95,0.12,5,"25,495,750,708.22","14,164,305,949.01",Faulted and dip closed ,Low risk,0,0,0,1,23,0
+R39,Operational,"2,760.00",309,93,46.4,0.58,0.12,90,"33,994,334,277.62","19,830,028,328.61",Dip and fault closed anticline,Low risk,0,24,0,0,0,0
+R40,Operational,"2,743.00",312,91,28.42,0.98,0.13,75,"13,818,621,137.00","10,368,271,954.67",Anticlinal horst block,Low risk,16,0,0,10,0,9
+R41,Out of operation,"3,596.00",446,110,197.88,0.51,0.11,25.5,"18,526,912,181.30","8,707,648,725.21",Fault and dip closure,Low risk,0,0,0,0,17,0
+R42,Operational,"2,910.00",313,89,40.5,0.75,0.2,220,"17,365,439,093.48","13,892,351,274.79",Dip-closed faulted anticline,Medium risk,0,5,0,0,0,0
+R43,Out of operation,"3,849.00",449,119,82,0.3,0.1,255,"3,937,677,053.82","295,325,779.04",Fault and dip closure,Low risk,0,0,0,0,1,0
+R44,Out of operation,"3,231.00",381,112.3,19.12,0.85,0.11,95.1,"3,144,475,920.68","2,606,232,294.62",4-way dip closure,Low risk,0,0,3,2,0,3
+R45,Out of operation,"3,587.00",424,115,52,0.6,0.11,35.1,"4,617,563,739.38","2,322,946,175.64",Combined structure/strat,Low risk,0,0,0,0,3,0
+R46,Out of operation,"3,678.00",440,116,73,0.7,0.11,48.4,"1,728,045,325.78","1,529,745,042.49",Combined structure/strat,Low risk,0,0,0,0,12,0
+R47,Out of operation,"2,529.00",279,88,103.88,0.98,0.16,52,"30,084,985,835.69","26,062,322,946.18",Tilted horst block,Medium risk,0,0,0,0,8,0
+R48,Operational,"2,700.00",294,85,96.75,0.75,0.12,32.5,"71,954,674,220.96","53,059,490,084.99",Inversion anticline,Medium risk,0,24,8,2,0,0
+R49,Out of operation,"3,470.00",398,113,20.7,0.9,0.13,13,"2,800,000,000.00","2,300,000,000.00",Structural,Low risk,0,0,0,0,4,0
+R50,Operational,"3,596.00",435,115,37.1,0.35,0.11,25,"7,365,439,093.48","5,240,793,201.13",Combined structural/unconformity,Low risk,0,4,4,0,0,1
